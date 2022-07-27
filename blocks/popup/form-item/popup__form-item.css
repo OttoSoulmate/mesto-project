@@ -13,24 +13,20 @@
     margin-top: 0;
 }
 
-.popup__form-item:first-of-type {
-    margin-top: 0;
-  }
-  
-  .popup__form-item::-webkit-input-placeholder {
+ .popup__form-item::-webkit-input-placeholder {
     color: #000000;
   }
   
-  .popup__form-item::-ms-input-placeholder {
+.popup__form-item::-ms-input-placeholder {
     color: #000000;
   }
   
-  .popup__form-item::-moz-placeholder {
+.popup__form-item::-moz-placeholder {
     color: #000000;
     opacity: 1;
   }
   
-  .popup__form-item::placeholder {
+.popup__form-item::placeholder {
     color: #000000;
   }
   
