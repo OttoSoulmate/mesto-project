@@ -28,11 +28,11 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
-@import url(../blocks/pop-up/pop-up.css);
-@import url(../blocks/pop-up/__body/pop-up__body.css);
-@import url(../blocks/pop-up/__form/pop-up__form.css);
-@import url(../blocks/pop-up/__header/pop-up__header.css);
-@import url(../blocks/pop-up/form-items/pop-up__form-items.css);
-@import url(../blocks/pop-up/form-item/pop-up__form-item.css);
-@import url(../blocks/pop-up/__save-button/pop-up__save-button.css);
-@import url(../blocks/pop-up/close-button/pop-up__close-button.css);
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__body/popup__body.css);
+@import url(..//blocks/popup/__form/popup__form.css);
+@import url(..//blocks/popup/__header/popup__header.css);
+@import url(../blocks/popup/form-items/popup__form-items.css);
+@import url(../blocks/popup/form-item/popup__form-item.css);
+@import url(../blocks/popup/__save-button/popup__save-button.css);
+@import url(../blocks/popup/close-button/popup__close-button.css);
